@@ -24,4 +24,4 @@ I am a passionate Web Developer focused on building scalable, high-performance a
 ### 📬 Connect With Me
 
 *   **Professional Background:** Experienced in both local business markets in Myanmar and public sector enterprise projects.
-*   **GitHub:** [github.com/SMHtet18](https://github.com/SMHtet18)
+*   **GitHub:** [github.com/SoeMoeHtet18](https://github.com/SoeMoeHtet18)
